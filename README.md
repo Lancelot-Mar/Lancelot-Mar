@@ -52,12 +52,6 @@ const leonardo = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Lancelot-Mar&show_icons=true&theme=github_dark&border_color=30363d&hide_border=false&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lancelot-Mar&layout=compact&theme=github_dark&border_color=30363d&hide_border=false" />
-
-</div>
 
 <div align="center">
 
