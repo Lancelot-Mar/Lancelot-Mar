@@ -2,7 +2,7 @@
 
 # Leonardo Marescutti
 
-### Junior Developer · DAM Student
+### Junior Developer
 
 </div>
 
